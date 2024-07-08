@@ -92,6 +92,7 @@ body {
 
 .hero-content span {
     display: block;
+    font-size: calc(var(--index) * 2.8);
 }
 
 .hero-content__p {
@@ -99,7 +100,7 @@ body {
     font-family: merriweather-italic-3d;
     letter-spacing: normal;
     font-size: calc(var(--index) * .9);
-    line-height: 3;
+    line-height: 1.7;
 }
 
 .button-start {
